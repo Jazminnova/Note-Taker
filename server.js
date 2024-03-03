@@ -1,7 +1,7 @@
 //Imports
 const express = require("express");
 const path = require("path");
-const api = require();
+
 const PORT = process.env.PORT || 3000;
 
 //Middleware
